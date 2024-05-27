@@ -173,18 +173,21 @@ header {
 .why-dait {
     padding: 80px 0px;
     background-color: #12237C;
+
     .col-lg-7 {
-        h2{
+        h2 {
             color: #FFF;
             font-family: "DM Sans";
             font-size: 48px;
             font-style: normal;
             font-weight: 500;
-            line-height: 115%; /* 55.2px */
+            line-height: 115%;
+            /* 55.2px */
             letter-spacing: 1.92px;
             margin: 0px;
             padding-bottom: 80px;
         }
+
         button {
             border: 0.826px solid #12237C;
             background: #FFF;
@@ -204,57 +207,173 @@ header {
                 text-decoration: none;
             }
         }
-        p{
+
+        p {
             color: #FFF;
-font-family: "DM Sans";
-font-size: 19.23px;
-font-style: normal;
-font-weight: 400;
-line-height: 130.363%; /* 25.069px */
-letter-spacing: 0.769px;
-margin: 0px;
-padding-bottom: 20px;
+            font-family: "DM Sans";
+            font-size: 19.23px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 130.363%;
+            /* 25.069px */
+            letter-spacing: 0.769px;
+            margin: 0px;
+            padding-bottom: 20px;
         }
     }
-    .old-man{
+
+    .old-man {
         width: 100%;
         height: 100%;
     }
 }
 
-.certifications{
+.certifications {
     padding: 83px 0px;
-    h2{
+
+    h2 {
         color: #FFF;
-text-align: center;
-font-family: "DM Sans";
-font-size: 48px;
-font-style: normal;
-font-weight: 500;
-line-height: 115%; /* 55.2px */
-letter-spacing: 1.92px;
-background-color: #000;
-padding: 4px 15px;
-display: inline-block;
-margin-bottom: 80px;
+        text-align: center;
+        font-family: "DM Sans";
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 115%;
+        /* 55.2px */
+        letter-spacing: 1.92px;
+        background-color: #000;
+        padding: 4px 15px;
+        display: inline-block;
+        margin-bottom: 80px;
     }
 }
 
-.faq{
+.faq {
     padding-top: 49px;
     padding-bottom: 90px;
-    h2{
+
+    h2 {
         color: #FFF;
+        text-align: center;
+        font-family: "DM Sans";
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 115%;
+        /* 55.2px */
+        letter-spacing: 1.92px;
+        background-color: #000;
+        padding: 4px 15px;
+        display: inline-block;
+        margin-bottom: 50px;
+    }
+}
+
+.form {
+    background-color: #12237C;
+    padding: 62px 0px;
+
+    .form-box {
+        background: #fff;
+        padding-top: 62px;
+        padding-bottom: 80px;
+        padding-left: 40px;
+        padding-right: 40px;
+
+        h2 {
+            margin: 0px;
+            color: #000;
+            text-align: center;
+            font-family: "DM Sans";
+            font-size: 48px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 115%;
+            /* 55.2px */
+            letter-spacing: 1.92px;
+        }
+
+        p {
+            margin: 0px;
+            color: #000;
+            text-align: center;
+            font-family: "DM Sans";
+            font-size: 19.23px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 130.363%;
+            /* 25.069px */
+            letter-spacing: 0.769px;
+            padding-bottom: 30px;
+        }
+
+        label {
+            color: #000;
+            text-align: center;
+            font-family: "DM Sans";
+            font-size: 19.23px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 130.363%;
+            /* 25.069px */
+            letter-spacing: 0.769px;
+        }
+
+        input {
+            width: 100%;
+            color: rgba(0, 0, 0, 0.59);
+            text-align: center;
+            font-family: "DM Sans";
+            font-size: 19.23px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 130.363%;
+            /* 25.069px */
+            letter-spacing: 0.769px;
+            padding: 8px;
+        }
+
+        textarea {
+            width: 100%;
+            color: rgba(0, 0, 0, 0.59);
+            text-align: center;
+            font-family: "DM Sans";
+            font-size: 19.23px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 130.363%;
+            /* 25.069px */
+            letter-spacing: 0.769px;
+        }
+
+        button {
+            background: #000;
+            padding: 20px 50px;
+            color: #FFF;
+            text-align: center;
+            font-family: Montserrat;
+            font-size: 17.279px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 110%;
+            /* 19.007px */
+            letter-spacing: 2.765px;
+            text-transform: uppercase;
+        }
+    }
+}
+
+footer{
+    background-color: #FFF;
+    padding: 6px 0px;
+    h4{
+        color: #000;
 text-align: center;
 font-family: "DM Sans";
-font-size: 48px;
+font-size: 22px;
 font-style: normal;
 font-weight: 500;
-line-height: 115%; /* 55.2px */
-letter-spacing: 1.92px;
-background-color: #000;
-padding: 4px 15px;
-display: inline-block;
-margin-bottom: 50px;
+line-height: 130.363%; /* 28.68px */
+letter-spacing: 0.88px;
     }
 }
