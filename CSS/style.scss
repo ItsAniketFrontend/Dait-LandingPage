@@ -363,17 +363,19 @@ header {
     }
 }
 
-footer{
+footer {
     background-color: #FFF;
     padding: 6px 0px;
-    h4{
+
+    h4 {
         color: #000;
-text-align: center;
-font-family: "DM Sans";
-font-size: 22px;
-font-style: normal;
-font-weight: 500;
-line-height: 130.363%; /* 28.68px */
-letter-spacing: 0.88px;
+        text-align: center;
+        font-family: "DM Sans";
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 130.363%;
+        /* 28.68px */
+        letter-spacing: 0.88px;
     }
 }
