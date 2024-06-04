@@ -9,8 +9,9 @@ header {
     text-align: center;
 
     img {
-        width: 162px;
-        height: 162px;
+        width: 100px;
+        height: 100px;
+        text-align: left !important;
     }
 }
 
@@ -25,11 +26,11 @@ header {
 
         h1 {
             margin: 0px;
-            padding-bottom: 37px;
+            padding-bottom: 20px;
             color: #000;
             text-align: center;
             font-family: "DM Sans";
-            font-size: 51.789px;
+            font-size: 32px;
             font-style: normal;
             font-weight: 700;
             line-height: 130.363%;
@@ -42,7 +43,7 @@ header {
             color: #000;
             text-align: center;
             font-family: "DM Sans";
-            font-size: 19.23px;
+            font-size: 17px;
             font-style: normal;
             font-weight: 400;
             line-height: 130.363%;
@@ -61,7 +62,7 @@ header {
         color: #FFF;
         text-align: center;
         font-family: "DM Sans";
-        font-size: 48px;
+        font-size: 32px;
         font-style: normal;
         font-weight: 500;
         line-height: 130.363%;
@@ -78,7 +79,7 @@ header {
         color: #000;
         text-align: center;
         font-family: "DM Sans";
-        font-size: 19.23px;
+        font-size: 17px;
         font-style: normal;
         font-weight: 400;
         line-height: 130.363%;
@@ -88,6 +89,9 @@ header {
 
     .bottom-row {
         padding-top: 70px;
+        .col-12{
+            mix-blend-mode: multiply;
+        }
     }
 }
 
@@ -99,7 +103,7 @@ header {
         color: #FFF;
         text-align: center;
         font-family: "DM Sans";
-        font-size: 48px;
+        font-size: 32px;
         font-style: normal;
         font-weight: 500;
         line-height: 130.363%;
@@ -114,7 +118,7 @@ header {
         color: #000;
         text-align: center;
         font-family: "DM Sans";
-        font-size: 19.23px;
+        font-size: 17px;
         font-style: normal;
         font-weight: 400;
         line-height: 130.363%;
@@ -178,14 +182,14 @@ header {
         h2 {
             color: #FFF;
             font-family: "DM Sans";
-            font-size: 48px;
+            font-size: 32px;
             font-style: normal;
             font-weight: 500;
             line-height: 115%;
             /* 55.2px */
             letter-spacing: 1.92px;
             margin: 0px;
-            padding-bottom: 80px;
+            padding-bottom: 28px;
         }
 
         button {
@@ -211,7 +215,7 @@ header {
         p {
             color: #FFF;
             font-family: "DM Sans";
-            font-size: 19.23px;
+            font-size: 17px;
             font-style: normal;
             font-weight: 400;
             line-height: 130.363%;
@@ -235,7 +239,7 @@ header {
         color: #FFF;
         text-align: center;
         font-family: "DM Sans";
-        font-size: 48px;
+        font-size: 32px;
         font-style: normal;
         font-weight: 500;
         line-height: 115%;
@@ -256,7 +260,7 @@ header {
         color: #FFF;
         text-align: center;
         font-family: "DM Sans";
-        font-size: 48px;
+        font-size: 32px;
         font-style: normal;
         font-weight: 500;
         line-height: 115%;
@@ -285,7 +289,7 @@ header {
             color: #000;
             text-align: center;
             font-family: "DM Sans";
-            font-size: 48px;
+            font-size: 32px;
             font-style: normal;
             font-weight: 500;
             line-height: 115%;
@@ -298,7 +302,7 @@ header {
             color: #000;
             text-align: center;
             font-family: "DM Sans";
-            font-size: 19.23px;
+            font-size: 17px;
             font-style: normal;
             font-weight: 400;
             line-height: 130.363%;

@@ -9,8 +9,9 @@ header {
   text-align: center;
 }
 header img {
-  width: 162px;
-  height: 162px;
+  width: 100px;
+  height: 100px;
+  text-align: left !important;
 }
 
 .about {
@@ -24,11 +25,11 @@ header img {
 }
 .about .box h1 {
   margin: 0px;
-  padding-bottom: 37px;
+  padding-bottom: 20px;
   color: #000;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 51.789px;
+  font-size: 32px;
   font-style: normal;
   font-weight: 700;
   line-height: 130.363%;
@@ -40,7 +41,7 @@ header img {
   color: #000;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 19.23px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 400;
   line-height: 130.363%;
@@ -57,7 +58,7 @@ header img {
   color: #FFF;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 48px;
+  font-size: 32px;
   font-style: normal;
   font-weight: 500;
   line-height: 130.363%;
@@ -72,7 +73,7 @@ header img {
   color: #000;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 19.23px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 400;
   line-height: 130.363%;
@@ -81,6 +82,9 @@ header img {
 }
 .freshness .bottom-row {
   padding-top: 70px;
+}
+.freshness .bottom-row .col-12 {
+  mix-blend-mode: multiply;
 }
 
 .products {
@@ -91,7 +95,7 @@ header img {
   color: #FFF;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 48px;
+  font-size: 32px;
   font-style: normal;
   font-weight: 500;
   line-height: 130.363%;
@@ -105,7 +109,7 @@ header img {
   color: #000;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 19.23px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 400;
   line-height: 130.363%;
@@ -160,14 +164,14 @@ header img {
 .why-dait .col-lg-7 h2 {
   color: #FFF;
   font-family: "DM Sans";
-  font-size: 48px;
+  font-size: 32px;
   font-style: normal;
   font-weight: 500;
   line-height: 115%;
   /* 55.2px */
   letter-spacing: 1.92px;
   margin: 0px;
-  padding-bottom: 80px;
+  padding-bottom: 28px;
 }
 .why-dait .col-lg-7 button {
   border: 0.826px solid #12237C;
@@ -190,7 +194,7 @@ header img {
 .why-dait .col-lg-7 p {
   color: #FFF;
   font-family: "DM Sans";
-  font-size: 19.23px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 400;
   line-height: 130.363%;
@@ -211,7 +215,7 @@ header img {
   color: #FFF;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 48px;
+  font-size: 32px;
   font-style: normal;
   font-weight: 500;
   line-height: 115%;
@@ -231,7 +235,7 @@ header img {
   color: #FFF;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 48px;
+  font-size: 32px;
   font-style: normal;
   font-weight: 500;
   line-height: 115%;
@@ -259,7 +263,7 @@ header img {
   color: #000;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 48px;
+  font-size: 32px;
   font-style: normal;
   font-weight: 500;
   line-height: 115%;
@@ -271,7 +275,7 @@ header img {
   color: #000;
   text-align: center;
   font-family: "DM Sans";
-  font-size: 19.23px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 400;
   line-height: 130.363%;
