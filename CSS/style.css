@@ -84,7 +84,7 @@ header img {
   padding-top: 70px;
 }
 .freshness .bottom-row .col-12 {
-  mix-blend-mode: multiply;
+  mix-blend-mode: difference;
 }
 
 .products {
